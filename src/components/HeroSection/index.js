@@ -18,7 +18,7 @@ const HeroSection = () => {
             </HeroBg>
             <HeroContent>
                 <HeroH1>Virtual Banking Made Easy</HeroH1>
-                <HeroP>Sign up for a new account today and receive $250 in credit towars your next payment.
+                <HeroP>Sign up for a new account today and receive R250 in credit towards your next payment.
                 </HeroP>
                 <HeroBtnWrapper>
                     <Button onMouseEnter={onHover} onMouseLeave={onHover}
